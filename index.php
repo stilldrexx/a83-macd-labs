@@ -28,7 +28,7 @@
  <?php
     $host = "accountiowebappserver"; //Nama server database Anda
     $user = "stilldre"; //Nama admin database Anda
-    $pass = "iNTOUCHABLES9"; //Password admin database Anda
+    $pass = "iNTOUCHABLES6"; //Password admin database Anda
     $db = "AccountIO"; //Nama database Anda
 
     try {
