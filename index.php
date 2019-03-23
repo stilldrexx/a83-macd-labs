@@ -26,7 +26,7 @@
        <input type="submit" name="load_data" value="Load Data" />
  </form>
  <?php
-    $host = "accountiowebappserver"; //Nama server database Anda
+    $host = "accountiowebappserver.database.windows.net"; //Nama server database Anda
     $user = "stilldre"; //Nama admin database Anda
     $pass = "iNTOUCHABLES6"; //Password admin database Anda
     $db = "AccountIO"; //Nama database Anda
